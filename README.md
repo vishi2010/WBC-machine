@@ -7,6 +7,7 @@ Segment A includes: a 3.3v 500Mah battery, a charging module (TP4056), STM32F411
 Segment B will include: a needle that will get a small sample of blood, a microfluidic chmaber which seperate the sample into 8 different chambers. the camer will face the MC and will take photos of each chamber. the CNN will count the number of white blood cells and then take the average of all 8 chambers, multiply it by volumbe of blood in the body depending on height, weight, and age. It will then send a diagnosis depending on wether the number of white blood cells falls it estimates in the body. 
 
 created with fusion 360. 
+
 Segment A schematic 
 <img width="1470" height="956" alt="Screenshot 2026-04-26 at 8 24 36 PM" src="https://github.com/user-attachments/assets/79a77deb-98d9-4a7f-9476-d601460e8d1f" />
 

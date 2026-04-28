@@ -9,13 +9,17 @@ Segment B will include: a needle that will get a small sample of blood, a microf
 created with fusion 360. 
 
 Segment A schematic 
-<img width="1470" height="956" alt="Screenshot 2026-04-27 at 9 34 09 PM" src="https://github.com/user-attachments/assets/2d6c35c7-4186-44d4-84d4-3b93bd816824" />
+
+<img width="1470" height="956" alt="Screenshot 2026-04-27 at 9 34 05 PM" src="https://github.com/user-attachments/assets/0a69f6fe-bcff-4309-900e-ae93ed82ad3a" />
 
 Segment A schematic 
-<img width="1470" height="956" alt="Screenshot 2026-04-27 at 9 34 05 PM" src="https://github.com/user-attachments/assets/1df8dc82-06df-437c-9b2c-ec2a39481fae" />
+
+<img width="1470" height="956" alt="Screenshot 2026-04-27 at 9 34 22 PM" src="https://github.com/user-attachments/assets/bb28e442-7b42-4ed9-9d2a-ac7a9eeadd71" />
 
 Segment A schematic
-<img width="1470" height="956" alt="Screenshot 2026-04-27 at 9 34 22 PM" src="https://github.com/user-attachments/assets/3fd607e1-0bb3-4e8d-a464-8c313b39e519" />
+
+<img width="1470" height="956" alt="Screenshot 2026-04-27 at 9 34 24 PM" src="https://github.com/user-attachments/assets/6e004efc-188c-4a40-8390-b43c7fd9bdf9" />
+
 
 
 

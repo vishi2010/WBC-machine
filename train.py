@@ -8,7 +8,7 @@ def preprocess(image, label):
     return image, label
 
 train_ds = tf.keras.utils.image_dataset_from_directory(
-    '/Users/vishishtbhatnagar/Desktop/hematic-cnn/data/train',
+    'YOUR_PATH_TO_TRAINING_DATASET',
     image_size=(224, 224),
     batch_size=32,
     shuffle=True,
@@ -16,7 +16,7 @@ train_ds = tf.keras.utils.image_dataset_from_directory(
 )
 
 val_ds = tf.keras.utils.image_dataset_from_directory(
-    '/Users/vishishtbhatnagar/Desktop/hematic-cnn/data/val',
+    'YOUR_PATH_TO_VALIDATION_DATASET',
     image_size=(224, 224),
     batch_size=32,
     seed=42

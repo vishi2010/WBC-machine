@@ -6,6 +6,10 @@ Segment A includes: a 3.3v 500Mah battery, a charging module (TP4056), STM32F411
 
 Segment B will include: a needle that will get a small sample of blood, a microfluidic chmaber which seperate the sample into 8 different chambers. the camer will face the MC and will take photos of each chamber. the CNN will count the number of white blood cells and then take the average of all 8 chambers, multiply it by volumbe of blood in the body depending on height, weight, and age. It will then send a diagnosis depending on wether the number of white blood cells falls it estimates in the body. 
 
+A bit about the code: The code was written pretty rushed and you could probably get a better model by running a slightly more opimized train.py script. This version fluctautes around 87-88% val accuracy. The training set used was from Kaggle and was called BCCD total about ~12,844 images. the split looks like this Neutrophil = 2,499 images, Eusinophil = 2,497 images, Lymphocyte = 2,483 images, monocyte = 2,478. The count doesn't add up to the total since there are also Validation images which is not included. 
+
+
+
 created with fusion 360. 
 
 Segment A schematic 

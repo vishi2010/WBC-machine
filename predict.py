@@ -25,7 +25,7 @@ def predict(image_path):
 
 # Test on a validation image
 import os
-test_image = '/Users/vishishtbhatnagar/Desktop/hematic-cnn/data/val/NEUTROPHIL/' + \
-    os.listdir('/Users/vishishtbhatnagar/Desktop/hematic-cnn/data/val/NEUTROPHIL/')[0]
+test_image = 'YOUR_PATH/data/val/NEUTROPHIL/' + \
+    os.listdir('YOUR_PARTH/data/val/NEUTROPHIL/')[0]
 
 predict(test_image)
